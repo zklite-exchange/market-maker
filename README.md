@@ -1,4 +1,16 @@
-# Zigzag Market Maker
+# zkLite Exchange Market Maker
+If you've been running ZigZag market-maker app, you can continue provide liquidity for zkLite Exchange by simply switching to new API endpoints:
+
+| Old endpoint  | New endpoint  | 
+|---|---|
+| wss://zigzag-exchange.herokuapp.com  | wss://api.zklite.io  |
+| https://zigzag-exchange.herokuapp.com  | https://api.zklite.io  |
+
+<br>
+
+**Following are documents of legacy ZigZag market-maker bot:**
+
+# Market-maker bot
 
 This is the reference market maker for Zigzag zksync markets. It works on both Goerli and Mainnet.
 
