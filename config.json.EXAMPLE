@@ -5,7 +5,7 @@
         ""
     ],
     "zigzagChainId": 1,
-    "zigzagWsUrl": "wss://zigzag-exchange.herokuapp.com",
+    "zigzagWsUrl": "wss://api.zklite.io",
     "ethereumRPC": "https://eth.llamarpc.com",
     "pairs": {
         "ETH-USDC": {
